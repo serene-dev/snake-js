@@ -1,7 +1,7 @@
 
 # Console Snake Game in JavaScript
 
-Youtube link: 
+Youtube link: https://youtu.be/LhZRqlyBEFE
 
 Running:
 ```
