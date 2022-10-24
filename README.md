@@ -7,3 +7,12 @@ Running:
 ```
 $ node snake.js
 ```
+
+Control keys:
+```
+Esc - quit
+h - left
+j - down
+k - up
+l - left
+```
